@@ -30,7 +30,7 @@
 
 ## Bước 2 - Lấy Groq API Key
 > [!NOTE]
-> Lý do mình dùng con AI này vì nó nhả token nhanh nhất, thật ra cho 1 câu ví dụ thì đa số top model hiện nay nhanh gần như nhau nhưng con này free, nhanh và số lượt dùng mỗi ngày nhiều  
+> Lý do mình dùng mô hình AI bên dịch vụ này vì nó nhả token nhanh nhất, thật ra cho 1 câu ví dụ thì đa số các top model hiện nay nhanh gần như nhau nhưng con này free, nhanh và số lượt dùng mỗi ngày nhiều  
 > Các bạn dùng api của con AI nào cũng được, có thể nhờ AI như claude, gemini, chatgpt, ... viết lại code lấy đúng theo api các bạn dùng là được
 
 1. Vào [console.groq.com](https://console.groq.com) → đăng nhập bằng Google
